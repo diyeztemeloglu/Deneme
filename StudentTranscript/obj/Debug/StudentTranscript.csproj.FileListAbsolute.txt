@@ -1,0 +1,6 @@
+c:\users\lab1\documents\visual studio 2015\Projects\StudentTranscript\StudentTranscript\bin\Debug\StudentTranscript.exe.config
+C:\Users\Lab1\Documents\Visual Studio 2015\Projects\StudentTranscript\StudentTranscript\obj\Debug\StudentTranscript.csprojResolveAssemblyReference.cache
+C:\Users\Lab1\Documents\Visual Studio 2015\Projects\StudentTranscript\StudentTranscript\bin\Debug\StudentTranscript.exe
+C:\Users\Lab1\Documents\Visual Studio 2015\Projects\StudentTranscript\StudentTranscript\bin\Debug\StudentTranscript.pdb
+C:\Users\Lab1\Documents\Visual Studio 2015\Projects\StudentTranscript\StudentTranscript\obj\Debug\StudentTranscript.exe
+C:\Users\Lab1\Documents\Visual Studio 2015\Projects\StudentTranscript\StudentTranscript\obj\Debug\StudentTranscript.pdb
